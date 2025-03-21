@@ -22,12 +22,12 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')
 
 WebUI.setText(findTestObject('Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Email or mobile phone number_email'), 
-    'Harshithunny11@gmail.com')
+    Email)
 
 WebUI.click(findTestObject('Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Forgot password_password'), 
-    'eT+neOQl2Zp1xYNJVSGiRg==')
+    Password)
 
 WebUI.click(findTestObject('Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Enter your password_signInSubmit'))
 
