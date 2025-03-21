@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tux-button_Add gift card to balance-ft Card-d0b</name>
+   <tag></tag>
+   <elementGuidId>f52e0aa5-f193-43d1-9a53-4d9fdc13f765</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tux-button.add-gift-card-button.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tux-button[@type='primary']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#add-gift-card-form >> internal:text=&quot;Add gift card to balance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tux-button</value>
+      <webElementGuid>244d3298-b82a-4f82-8646-d240367ca592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-gift-card-button hydrated</value>
+      <webElementGuid>d1f146cb-d8f9-45da-8e20-42ed21804a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>784911ef-b3d7-4fe5-aca8-ed25faaf2297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add gift card to balance</value>
+      <webElementGuid>079fbc9a-70f8-4461-84f8-b201d8ea8a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-gift-card-form&quot;)/div[@class=&quot;padding-top-0 padding-bottom-16&quot;]/div[@class=&quot;tux-row&quot;]/div[@class=&quot;tux-col-8 padding-right-29&quot;]/tux-button[@class=&quot;add-gift-card-button hydrated&quot;]</value>
+      <webElementGuid>0b41e39a-f501-4170-808a-83f6ed587084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//tux-button[@type='primary']</value>
+      <webElementGuid>f08254b4-4a7c-4908-bfdb-a2ba91b419c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add-gift-card-form']/div/div[2]/div/tux-button</value>
+      <webElementGuid>3d60c534-3997-4b7a-88b5-0dfd5c39f9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e.g. 8U95-Y3E8CQ-39MPQ'])[1]/following::tux-button[1]</value>
+      <webElementGuid>7e1f1ed2-6c55-48b8-8312-8ce0072e5c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add gift card to balance'])[1]/following::tux-button[1]</value>
+      <webElementGuid>50960852-2faa-4117-998d-a8135c91e1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For optimal utilisation, balance expiring the earliest will be redeemed first.'])[1]/preceding::tux-button[1]</value>
+      <webElementGuid>5bc0db06-47cf-42f4-b84c-1769fe42a56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add another gift card'])[1]/preceding::tux-button[1]</value>
+      <webElementGuid>5574ecee-b030-4cd5-94a0-580a84da1839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tux-button</value>
+      <webElementGuid>0f0a2542-b6e2-47b2-b7b3-636de6e29a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tux-button[@type = 'primary' and (text() = 'Add gift card to balance' or . = 'Add gift card to balance')]</value>
+      <webElementGuid>fc4eff64-b4cf-4445-8374-0314bd27c795</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tux-option_Add Gift Card to Balance-let-063-40f</name>
+   <tag></tag>
+   <elementGuidId>f2f83431-69f7-4985-8053-7c3f3ad96a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > tux-option.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tux-option >> internal:has-text=&quot;Add Gift Card to Balance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tux-option</value>
+      <webElementGuid>c488be70-45b4-4ff9-b352-0aac9a9434d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Gift Card</value>
+      <webElementGuid>4ac8fa45-3d7d-4904-9ee2-df582ae9a79a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hydrated</value>
+      <webElementGuid>3d595473-7320-4ca7-80ad-a8898134719d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Gift Card to Balance </value>
+      <webElementGuid>67517467-4607-4fc5-85b5-9cd89f6b034c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[1]/tux-option[@class=&quot;hydrated&quot;]</value>
+      <webElementGuid>6bc3b0dc-c0ab-4418-9e22-015c0fc578ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Gift Card/Page_Add Money to Wallet/payui-options-list_Do more with Amazon Pay _0335e9</value>
+      <webElementGuid>4b12875d-04a7-4e70-9702-bc83e32e6d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a18b0aba-8ba5-4fdc-a881-7e1e7a8dbcbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>7ce7186e-5c03-4f9d-b059-942f844d949a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tux-option[(text() = 'Add Gift Card to Balance ' or . = 'Add Gift Card to Balance ')]</value>
+      <webElementGuid>f6ffafb5-43fb-4859-9dd9-cba1315d08ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

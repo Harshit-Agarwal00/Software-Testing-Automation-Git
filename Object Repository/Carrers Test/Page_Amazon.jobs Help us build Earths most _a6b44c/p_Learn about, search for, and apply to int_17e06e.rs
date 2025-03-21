@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Learn about, search for, and apply to int_17e06e</name>
+   <tag></tag>
+   <elementGuidId>6956b23c-8161-4941-b4bf-8f690f059693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.tile-subtitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='university_recruiting']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Learn about, search for, and apply to internships and full-time opportunities fo&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6211841c-eeb9-4206-abb2-c6a7358e2143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-subtitle</value>
+      <webElementGuid>8b79279d-b9c4-4f97-913a-77ada34774ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn about, search for, and apply to internships and full-time opportunities for students.</value>
+      <webElementGuid>3292c6d4-dd95-4147-9bf2-1b74adb500e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;university_recruiting&quot;)/div[@class=&quot;text-wrapper&quot;]/p[@class=&quot;tile-subtitle&quot;]</value>
+      <webElementGuid>2878791b-31bd-4b36-a5e3-c1f3efa5da9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='university_recruiting']/div/p</value>
+      <webElementGuid>3fdb5c66-01bb-4cbd-b832-6ec96cc11266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunities for students'])[1]/following::p[1]</value>
+      <webElementGuid>34287554-e5ef-4fe7-8dff-4b2f00e783fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join us'])[2]/following::p[1]</value>
+      <webElementGuid>047caa2f-5912-4be8-9f91-14e29594e318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View open jobs'])[1]/preceding::p[1]</value>
+      <webElementGuid>cfe938d9-fedc-4ee9-8b0e-1046cb7ba035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse and Hourly Jobs'])[1]/preceding::p[1]</value>
+      <webElementGuid>d4476adf-1a46-42b5-8db9-6884335f1bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learn about, search for, and apply to internships and full-time opportunities for students.']/parent::*</value>
+      <webElementGuid>fe890b15-4c4b-4d83-9651-a7319b5720ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>10c2c48d-b22a-4abc-afc8-2777ee2e6c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Learn about, search for, and apply to internships and full-time opportunities for students.' or . = 'Learn about, search for, and apply to internships and full-time opportunities for students.')]</value>
+      <webElementGuid>8a4485b3-1717-4cbb-b235-0a552bb5d000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>743cff01-d765-4411-9320-98ba272c09d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstanceTEZhWZcSVjF6qmEtM08DlQ']/div[2]/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#desktop-grid-1 >> internal:role=link[name=&quot;iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1bc17c94-1165-4822-8645-8cc8b37ae380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box</value>
+      <webElementGuid>884a51b2-6831-4a99-9cc1-3b82de12017f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/619VJYWIbXL._AC_SY220_.jpg</value>
+      <webElementGuid>1fd7abe8-1a65-420d-9a39-8b8c6141ec89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/619VJYWIbXL._AC_SY220_.jpg</value>
+      <webElementGuid>3757e914-0115-426f-bcb3-bab76b2c3998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstanceTEZhWZcSVjF6qmEtM08DlQ&quot;)/div[@class=&quot;a-cardui-body _quad-multi-asin-card-v2_fluid_fluidCardBody__3TzJ4 _quad-multi-asin-card-v2_style_cardBodyHasFooter__1l9jS&quot;]/div[@class=&quot;a-section a-spacing-base aok-clearfix _quad-multi-asin-card-v2_style_quadrantContainer__1hEF5&quot;]/div[@class=&quot;a-section a-spacing-none aok-float-left aok-relative _quad-multi-asin-card-v2_style_quadrant__3xH-V _quad-multi-asin-card-v2_style_topLeftQuadrant__yF7Ht&quot;]/a[@class=&quot;a-spacing-none a-link-normal _quad-multi-asin-card-v2_style_linkContainer__1pWUv a-text-normal&quot;]/div[@class=&quot;a-image-container a-dynamic-image-container _quad-multi-asin-card-v2_style_quadrantImageContainer__2QeUm&quot;]/img[1]</value>
+      <webElementGuid>f7c4f5f4-0e08-4d08-8baf-f9b1540fdf06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstanceTEZhWZcSVjF6qmEtM08DlQ']/div[2]/div/div/a/div/img</value>
+      <webElementGuid>3b396e4d-e637-4b99-865e-53d0acb100f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box']</value>
+      <webElementGuid>3cc3feb2-e061-489a-bd6d-8a6ecd719ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>3e0a80f2-49bb-45a8-b538-f95ad7206586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box' and @src = 'https://m.media-amazon.com/images/I/619VJYWIbXL._AC_SY220_.jpg']</value>
+      <webElementGuid>421fa888-abdb-4a96-bece-bb215e139b72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You seem to have entered an invalid Gift _d69ccd</name>
+   <tag></tag>
+   <elementGuidId>2a302a99-4fde-4b94-8f37-53b8ae0876e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.errorMessage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='You seem to have entered an invalid Gift Card / Promo code. Please enter the alphanumeric Gift Card code.']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;You seem to have entered an invalid Gift Card / Promo code. Please enter the alp&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cf91c85a-1626-44a6-8e47-8dfc2f05b4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errorMessage</value>
+      <webElementGuid>d14c0369-7b68-43bd-a501-35b215800905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You seem to have entered an invalid Gift Card / Promo code. Please enter the alphanumeric Gift Card code.</value>
+      <webElementGuid>5506cd27-c6d6-495a-8d21-0b9eac722a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/p[@class=&quot;errorMessage&quot;]</value>
+      <webElementGuid>b2fc68b2-c9e9-4879-9dff-6ba9a10378f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Gift Card/Page_Amazon Pay Gift Card/tux-input_Add gift card to balance_claimCod_db10d1</value>
+      <webElementGuid>5b035050-d2a0-4e72-9e24-9e15fc45139b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>45c598f1-3001-49de-aa59-4d50827175bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You seem to have entered an invalid Gift Card / Promo code. Please enter the alphanumeric Gift Card code.']/parent::*</value>
+      <webElementGuid>549920a0-9906-4f58-8838-34600d2d31a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'You seem to have entered an invalid Gift Card / Promo code. Please enter the alphanumeric Gift Card code.' or . = 'You seem to have entered an invalid Gift Card / Promo code. Please enter the alphanumeric Gift Card code.')]</value>
+      <webElementGuid>2aea3853-7f85-4f63-bf19-f4fe491eef92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
