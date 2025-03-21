@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login Test Suits" time="8.329" tests="1" failures="0" errors="0">
+   <testsuite name="Login Test Suits" tests="1" failures="0" errors="0" time="8.329" skipped="0" timestamp="21-03-2025T20:20:30" hostname="harshitagarwal - 192.168.29.122" id="Test Suites/Common Test Suits/Login Test Suits">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/harshitagarwal/git/Software-Testing-Automation-Git/Reports/20250321_202027/Common Test Suits/Login Test Suits/20250321_202028"/>
+         <property name="logFiles" value="/Users/harshitagarwal/git/Software-Testing-Automation-Git/Reports/20250321_202027/Common Test Suits/Login Test Suits/20250321_202028/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="harshitagarwal - 192.168.29.122"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 134.0.6998.118"/>
+         <property name="hostAddress" value="192.168.29.122"/>
+         <property name="sessionId" value="eb783c3056b67736fe2cb7ee3c7214f7"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Login Test Case" time="8.269" classname="Test Cases/Login Test Case" status="PASSED">
+         <system-out><![CDATA[21-03-2025T20:20:30 - [TEST_CASE][PASSED] - Test Cases/Login Test Case: Test Cases/Login Test Case
+
+21-03-2025T20:20:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+21-03-2025T20:20:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-03-2025T20:20:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-03-2025T20:20:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+21-03-2025T20:20:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"): Navigate to 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' successfully
+
+21-03-2025T20:20:33 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' successfully
+
+21-03-2025T20:20:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "Harshithunny11@gmail.com"): Text 'Harshithunny11@gmail.com' is set on object 'Object Repository/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+21-03-2025T20:20:34 - [MESSAGE][PASSED] - Text 'Harshithunny11@gmail.com' is set on object 'Object Repository/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+21-03-2025T20:20:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40")): Object: 'Object Repository/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40' is clicked on
+
+21-03-2025T20:20:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40' is clicked on
+
+21-03-2025T20:20:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Amazon Sign-In/input_Forgot password_password"), "hUQCGF8Jx0gIvg3fD636Yg=="): Text ****** has been set on object 'Object Repository/Page_Amazon Sign-In/input_Forgot password_password'
+
+21-03-2025T20:20:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Amazon Sign-In/input_Forgot password_password'
+
+21-03-2025T20:20:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+21-03-2025T20:20:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+21-03-2025T20:20:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+21-03-2025T20:20:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-03-2025T20:20:30 - [TEST_SUITE][PASSED] - Login Test Suits: Test Cases/Login Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

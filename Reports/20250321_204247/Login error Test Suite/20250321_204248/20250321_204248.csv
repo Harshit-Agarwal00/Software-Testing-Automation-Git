@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login error Test Suite,Chrome 134.0.6998.118,,,21-03-2025 20:42:49,21-03-2025 20:43:16,27.290s,FAILED
+,,,,,,,
+Test Cases/Invalid Login Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:42:49,21-03-2025 20:43:04,14.884s,FAILED
+"DATA BINDING - {""Email"":""Harshit Agarwal"",""Password"":""1234556""}",,,,,,,
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:42:49,21-03-2025 20:42:52,2.424s,PASSED
+"navigateToUrl(""https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"")",Chrome 134.0.6998.118,,,21-03-2025 20:42:52,21-03-2025 20:42:53,1.282s,PASSED
+"setText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Email or mobile phone number_email""), Email)",Chrome 134.0.6998.118,,,21-03-2025 20:42:53,21-03-2025 20:43:03,10.205s,PASSED
+"click(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40""))",Chrome 134.0.6998.118,,,21-03-2025 20:43:03,21-03-2025 20:43:03,0.301s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Forgot password_password""), Password)",Chrome 134.0.6998.118,,,21-03-2025 20:43:03,21-03-2025 20:43:04,0.587s,FAILED
+,,,,,,,
+Test Cases/Invalid Login Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:43:04,21-03-2025 20:43:16,12.332s,FAILED
+"DATA BINDING - {""Email"":"""",""Password"":""""}",,,,,,,
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:43:04,21-03-2025 20:43:05,0.751s,PASSED
+"navigateToUrl(""https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"")",Chrome 134.0.6998.118,,,21-03-2025 20:43:05,21-03-2025 20:43:06,1.181s,PASSED
+"setText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Email or mobile phone number_email""), Email)",Chrome 134.0.6998.118,,,21-03-2025 20:43:06,21-03-2025 20:43:08,1.931s,PASSED
+"click(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40""))",Chrome 134.0.6998.118,,,21-03-2025 20:43:08,21-03-2025 20:43:08,0.295s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Forgot password_password""), Password)",Chrome 134.0.6998.118,,,21-03-2025 20:43:08,21-03-2025 20:43:16,8.163s,FAILED

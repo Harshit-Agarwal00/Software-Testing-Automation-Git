@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HI</name>
+   <tag></tag>
+   <elementGuidId>ef1f3e42-dcee-4a9f-859e-128037bf5855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.nav-line-2 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-nav-flyout']/span/span[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Amazon India में खरीदारी के लिए कोई भाषा चुनें. मौजूदा सिलेक्शन हिंदी (HI) है.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11148192-a50c-444e-9a39-f43b542b491d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HI</value>
+      <webElementGuid>26182b99-ec8f-4fe7-a648-bf0e283ffd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-nav-flyout&quot;)/span[@class=&quot;icp-nav-link-inner&quot;]/span[@class=&quot;nav-line-2&quot;]/div[1]</value>
+      <webElementGuid>83e1e8df-1a0f-4553-bf60-f22d16c66aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='icp-nav-flyout']/span/span[2]/div</value>
+      <webElementGuid>92ff74e3-a747-4a0b-bf86-41d273e35acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon.in खोजें'])[1]/following::div[6]</value>
+      <webElementGuid>66f68102-d386-47cb-8883-9095ccc0272f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='सभी कैटेगरी'])[1]/following::div[8]</value>
+      <webElementGuid>66b01c7b-7073-4811-b6a2-c5c4bddfbc5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='नमस्ते, Harshit'])[1]/preceding::div[1]</value>
+      <webElementGuid>992ef2f7-7287-4903-b922-fa3a4a29cd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='अकाउंट और लिस्ट'])[1]/preceding::div[2]</value>
+      <webElementGuid>523403fa-fa72-4fc9-89a8-3bab0e6a2ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HI']/parent::*</value>
+      <webElementGuid>3def8da1-49bf-4093-8bb9-956e35fce5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>01ec51bf-7579-4c4f-b97f-75ce966577eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HI' or . = 'HI')]</value>
+      <webElementGuid>dea3c50e-43f0-4e10-a594-c34e512bc51b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

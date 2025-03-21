@@ -1,0 +1,143 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 134.0.6998.118,,,21-03-2025 20:13:35,21-03-2025 20:18:18,4m - 43.153s,FAILED
+,,,,,,,
+Test Cases/WatchList Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:13:35,21-03-2025 20:13:42,6.640s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:13:35,21-03-2025 20:13:38,2.432s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:13:38,21-03-2025 20:13:40,1.819s,PASSED
+"click(findTestObject(""Object Repository/WishList/Page_Online Shopping site in India Shop Onl_10c5f3/span_Your Wish List""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:40,21-03-2025 20:13:42,2.314s,FAILED
+,,,,,,,
+Test Cases/Log Out Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:13:42,21-03-2025 20:13:57,14.902s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:13:42,21-03-2025 20:13:43,0.869s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:13:43,21-03-2025 20:13:43,0.551s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:43,21-03-2025 20:13:48,4.509s,PASSED
+"setText(findTestObject(""Object Repository/Logout/Page_/input_IN 91_email""), ""Harshithunny11@gmail.com"")",Chrome 134.0.6998.118,,,21-03-2025 20:13:48,21-03-2025 20:13:49,1.451s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_/input_Passkey error_a-button-input""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:49,21-03-2025 20:13:51,1.677s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Logout/Page_Amazon Sign In/input_Forgot password_password""), ""hUQCGF8Jx0gIvg3fD636Yg=="")",Chrome 134.0.6998.118,,,21-03-2025 20:13:51,21-03-2025 20:13:52,1.204s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:52,21-03-2025 20:13:53,0.285s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign Out""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:53,21-03-2025 20:13:57,4.330s,FAILED
+,,,,,,,
+Test Cases/Change Country Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:13:57,21-03-2025 20:14:09,11.658s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:13:57,21-03-2025 20:13:58,0.791s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:13:58,21-03-2025 20:13:59,1.481s,PASSED
+"click(findTestObject(""Object Repository/Change Country/Page_Online Shopping site in India Shop Onl_10c5f3/span_India""))",Chrome 134.0.6998.118,,,21-03-2025 20:13:59,21-03-2025 20:14:02,2.541s,PASSED
+"click(findTestObject(""Object Repository/Change Country/Page_Go to website/span_India""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:02,21-03-2025 20:14:03,0.982s,PASSED
+"click(findTestObject(""Object Repository/Change Country/Page_Go to website/a_Australia""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:03,21-03-2025 20:14:04,0.981s,PASSED
+"click(findTestObject(""Object Repository/Change Country/Page_Go to website/input_Cancel_a-button-input""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:04,21-03-2025 20:14:04,0.483s,PASSED
+"switchToWindowTitle(""Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:04,21-03-2025 20:14:06,2.210s,PASSED
+"click(findTestObject(""Object Repository/Change Country/Page_Amazon.com.au Shop online for Electron_18857a/div_icp-touch-link-country  display none   _0b8ffc""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:06,21-03-2025 20:14:08,2.023s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:14:08,21-03-2025 20:14:09,0.126s,PASSED
+,,,,,,,
+Test Cases/Language Change Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:14:09,21-03-2025 20:14:15,6.577s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:14:09,21-03-2025 20:14:09,0.672s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:09,21-03-2025 20:14:10,0.402s,PASSED
+"click(findTestObject(""Object Repository/Language_Change/Page_Online Shopping site in India Shop Onl_10c5f3/a_EN""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:10,21-03-2025 20:14:13,3.425s,PASSED
+"click(findTestObject(""Object Repository/Language_Change/Page_Change Language Settings/i_EN_a-icon a-icon-radio""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:13,21-03-2025 20:14:14,0.969s,PASSED
+"click(findTestObject(""Object Repository/Language_Change/Page_Change Language Settings/input__a-button-input""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:14,21-03-2025 20:14:15,0.985s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:14:15,21-03-2025 20:14:15,0.103s,PASSED
+,,,,,,,
+Test Cases/Payment Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:14:15,21-03-2025 20:14:19,3.830s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:14:15,21-03-2025 20:14:16,0.651s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:16,21-03-2025 20:14:18,1.766s,PASSED
+"click(findTestObject(""Object Repository/Payment Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:18,21-03-2025 20:14:19,1.384s,FAILED
+,,,,,,,
+Test Cases/Empty Cart Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:14:19,21-03-2025 20:14:25,6.045s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:14:19,21-03-2025 20:14:20,0.726s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:20,21-03-2025 20:14:22,1.927s,PASSED
+"click(findTestObject(""Object Repository/Empty Cart/Page_Online Shopping site in India Shop Onl_10c5f3/span_0""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:22,21-03-2025 20:14:24,1.945s,PASSED
+"click(findTestObject(""Object Repository/Empty Cart/Page_Amazon.in Shopping Cart/h3_Your Amazon Cart is empty""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:24,21-03-2025 20:14:25,1.067s,PASSED
+"click(findTestObject(""Object Repository/Empty Cart/Page_Amazon.in Shopping Cart/h3_Your Amazon Cart is empty""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:25,21-03-2025 20:14:25,0.254s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:14:25,21-03-2025 20:14:25,0.105s,PASSED
+,,,,,,,
+Test Cases/Invalid Login Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:14:25,21-03-2025 20:15:03,37.523s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:14:25,21-03-2025 20:14:26,0.616s,PASSED
+"navigateToUrl(""https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:26,21-03-2025 20:14:26,0.526s,PASSED
+"setText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""Harshithunny11@gmail.com"")",Chrome 134.0.6998.118,,,21-03-2025 20:14:26,21-03-2025 20:14:28,1.890s,PASSED
+"click(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:28,21-03-2025 20:14:30,2.384s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Forgot password_password""), ""eT+neOQl2Zp1xYNJVSGiRg=="")",Chrome 134.0.6998.118,,,21-03-2025 20:14:30,21-03-2025 20:14:31,0.459s,PASSED
+"click(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:31,21-03-2025 20:14:31,0.272s,PASSED
+"click(findTestObject(""Object Repository/Invalid_Login/Page_Amazon Sign-In/div_There was a problem                    _40bd75""))",Chrome 134.0.6998.118,,,21-03-2025 20:14:31,21-03-2025 20:15:03,31.357s,FAILED
+,,,,,,,
+Test Cases/Login Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:15:03,21-03-2025 20:15:20,17.152s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:15:03,21-03-2025 20:15:03,0.707s,PASSED
+"navigateToUrl(""https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%3F&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:03,21-03-2025 20:15:04,0.389s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""Harshithunny11@gmail.com"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:04,21-03-2025 20:15:17,12.806s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:17,21-03-2025 20:15:19,2.391s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Amazon Sign-In/input_Forgot password_password""), ""hUQCGF8Jx0gIvg3fD636Yg=="")",Chrome 134.0.6998.118,,,21-03-2025 20:15:19,21-03-2025 20:15:19,0.486s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:19,21-03-2025 20:15:20,0.260s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:15:20,21-03-2025 20:15:20,0.093s,PASSED
+,,,,,,,
+Test Cases/Careers Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:15:20,21-03-2025 20:15:36,16.244s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:15:20,21-03-2025 20:15:20,0.642s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:20,21-03-2025 20:15:21,0.390s,PASSED
+"click(findTestObject(""Object Repository/Carrers Test/Page_Online Shopping site in India Shop Onl_10c5f3/a_Careers""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:21,21-03-2025 20:15:26,4.814s,PASSED
+"click(findTestObject(""Object Repository/Carrers Test/Page_Amazon.jobs Help us build Earths most _a6b44c/p_Learn about, search for, and apply to int_17e06e""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:26,21-03-2025 20:15:27,1.496s,PASSED
+"click(findTestObject(""Object Repository/Carrers Test/Page_Amazon.jobs Help us build Earths most _a6b44c/a_View open jobs""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:27,21-03-2025 20:15:35,7.559s,PASSED
+"click(findTestObject(""Object Repository/Carrers Test/Page_Amazon University Talent Acquisition (AUTA)/h2_Design your career""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:35,21-03-2025 20:15:36,1.191s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:15:36,21-03-2025 20:15:36,0.133s,PASSED
+,,,,,,,
+Test Cases/Search Suggsetions Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:15:36,21-03-2025 20:15:47,10.582s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:15:36,21-03-2025 20:15:37,0.619s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:37,21-03-2025 20:15:37,0.404s,PASSED
+"setText(findTestObject(""Object Repository/Search Suggsetion/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), ""macboo"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:37,21-03-2025 20:15:40,3.400s,PASSED
+"click(findTestObject(""Object Repository/Search Suggsetion/Page_Online Shopping site in India Shop Onl_10c5f3/div_macbook air m3 13 inch""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:40,21-03-2025 20:15:43,2.399s,PASSED
+"click(findTestObject(""Object Repository/Search Suggsetion/Page_Amazon.in  macbook air m3 13 inch/input_Search Amazon.in_field-keywords""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:43,21-03-2025 20:15:44,1.092s,PASSED
+"click(findTestObject(""Object Repository/Search Suggsetion/Page_Amazon.in  macbook air m3 13 inch/span_keyboard cover""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:44,21-03-2025 20:15:46,2.531s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:15:46,21-03-2025 20:15:47,0.116s,PASSED
+,,,,,,,
+Test Cases/Gift Card Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:15:47,21-03-2025 20:15:51,4.898s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:15:47,21-03-2025 20:15:47,0.655s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:47,21-03-2025 20:15:50,2.771s,PASSED
+"click(findTestObject(""Object Repository/Gift Card/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:50,21-03-2025 20:15:51,1.453s,FAILED
+,,,,,,,
+Test Cases/Todays Deal Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:15:51,21-03-2025 20:16:30,38.370s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:15:51,21-03-2025 20:15:52,0.693s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:15:52,21-03-2025 20:15:53,0.517s,PASSED
+"click(findTestObject(""Object Repository/Todays Deal/Page_Online Shopping site in India Shop Onl_10c5f3/a_Todays Deals""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:53,21-03-2025 20:15:57,4.601s,PASSED
+"click(findTestObject(""Object Repository/Todays Deal/Page_Amazon.in - Deals/i_Next""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:57,21-03-2025 20:15:58,0.753s,PASSED
+"click(findTestObject(""Object Repository/Todays Deal/Page_Amazon.in - Deals/i_Next""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:58,21-03-2025 20:15:58,0.236s,PASSED
+"click(findTestObject(""Object Repository/Todays Deal/Page_Amazon.in - Deals/span_Customers Most-Loved products""))",Chrome 134.0.6998.118,,,21-03-2025 20:15:58,21-03-2025 20:16:30,31.543s,FAILED
+,,,,,,,
+Test Cases/New Realse Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:16:30,21-03-2025 20:16:53,23.034s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:16:30,21-03-2025 20:16:31,0.719s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:16:31,21-03-2025 20:16:31,0.344s,PASSED
+"click(findTestObject(""Object Repository/New Relase/Page_Online Shopping site in India Shop Onl_10c5f3/a_New Releases""))",Chrome 134.0.6998.118,,,21-03-2025 20:16:31,21-03-2025 20:16:36,5.444s,PASSED
+"click(findTestObject(""Object Repository/New Relase/Page_Amazon.in Hot New Releases The bestsel_0a911b/h2_Hot New Releases in Watches""))",Chrome 134.0.6998.118,,,21-03-2025 20:16:36,21-03-2025 20:16:53,16.508s,FAILED
+,,,,,,,
+Test Cases/BestSeller Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:16:53,21-03-2025 20:17:11,17.917s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:16:53,21-03-2025 20:16:54,0.646s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:16:54,21-03-2025 20:16:56,2.004s,PASSED
+"click(findTestObject(""Object Repository/Bestseller/Page_Online Shopping site in India Shop Onl_10c5f3/a_Bestsellers""))",Chrome 134.0.6998.118,,,21-03-2025 20:16:56,21-03-2025 20:16:59,3.327s,PASSED
+"click(findTestObject(""Object Repository/Bestseller/Page_Amazon.in Bestsellers The most popular_e30680/h2_Bestsellers in Beauty""))",Chrome 134.0.6998.118,,,21-03-2025 20:16:59,21-03-2025 20:17:11,11.910s,FAILED
+,,,,,,,
+Test Cases/Books Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:17:11,21-03-2025 20:17:33,22.398s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:17:11,21-03-2025 20:17:12,0.706s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:17:12,21-03-2025 20:17:12,0.336s,PASSED
+"setText(findTestObject(""Object Repository/Books/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), ""Books"")",Chrome 134.0.6998.118,,,21-03-2025 20:17:12,21-03-2025 20:17:15,3.367s,PASSED
+"click(findTestObject(""Object Repository/Books/Page_Amazon.in  Books/img_Best seller_s-image""))",Chrome 134.0.6998.118,,,21-03-2025 20:17:15,21-03-2025 20:17:33,17.970s,FAILED
+,,,,,,,
+Test Cases/Amazon Logo Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:17:33,21-03-2025 20:17:38,5.071s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:17:33,21-03-2025 20:17:34,0.677s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:17:34,21-03-2025 20:17:36,2.041s,PASSED
+"click(findTestObject(""Object Repository/Amazon Logo/Page_Online Shopping site in India Shop Onl_10c5f3/a_in""))",Chrome 134.0.6998.118,,,21-03-2025 20:17:36,21-03-2025 20:17:38,2.233s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:17:38,21-03-2025 20:17:38,0.101s,PASSED
+,,,,,,,
+Test Cases/Test commit,Chrome 134.0.6998.118,,,21-03-2025 20:17:38,21-03-2025 20:17:38,0.011s,PASSED
+return null,Chrome 134.0.6998.118,,,21-03-2025 20:17:38,21-03-2025 20:17:38,0.000s,PASSED
+,,,,,,,
+Test Cases/Amazon Order Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:17:38,21-03-2025 20:17:43,4.984s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:17:38,21-03-2025 20:17:39,0.647s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:17:39,21-03-2025 20:17:39,0.409s,PASSED
+"click(findTestObject(""Object Repository/Order Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 134.0.6998.118,,,21-03-2025 20:17:39,21-03-2025 20:17:43,3.916s,FAILED
+,,,,,,,
+Test Cases/AddItem In Cart Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:17:43,21-03-2025 20:18:08,24.433s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:17:43,21-03-2025 20:17:44,0.746s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:17:44,21-03-2025 20:17:46,2.160s,PASSED
+"click(findTestObject(""Object Repository/Add Item To Cart/Page_Online Shopping site in India Shop Onl_10c5f3/img_Starting 149  Headphones__fluid-quad-im_08202e""))",Chrome 134.0.6998.118,,,21-03-2025 20:17:46,21-03-2025 20:18:08,21.490s,FAILED
+,,,,,,,
+Test Cases/Search Test Case,Chrome 134.0.6998.118,,,21-03-2025 20:18:08,21-03-2025 20:18:18,10.781s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.118,,,21-03-2025 20:18:08,21-03-2025 20:18:08,0.666s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 134.0.6998.118,,,21-03-2025 20:18:08,21-03-2025 20:18:09,0.872s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Search Test Case/select_All Categories        Alexa Skills  _59be89""), ""search-alias=stripbooks"", true)",Chrome 134.0.6998.118,,,21-03-2025 20:18:09,21-03-2025 20:18:14,4.666s,PASSED
+"setText(findTestObject(""Object Repository/Search Test Case/input_Search Amazon.in_field-keywords""), ""Automation"")",Chrome 134.0.6998.118,,,21-03-2025 20:18:14,21-03-2025 20:18:15,0.990s,PASSED
+"click(findTestObject(""Object Repository/Search Test Case/div_automation""))",Chrome 134.0.6998.118,,,21-03-2025 20:18:15,21-03-2025 20:18:18,3.459s,PASSED
+closeBrowser(),Chrome 134.0.6998.118,,,21-03-2025 20:18:18,21-03-2025 20:18:18,0.111s,PASSED
